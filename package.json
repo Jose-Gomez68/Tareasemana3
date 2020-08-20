@@ -1,0 +1,27 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "nuestro primer proyecto nodejs",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/Jose-Gomez68/guia-hoteles.git"
+  },
+  "author": "Jose-Gomez68",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Jose-Gomez68/guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap-icons": "^1.0.0-alpha5",
+    "jquery": "^3.5.1",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
